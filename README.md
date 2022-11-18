@@ -3,12 +3,11 @@
 [Link to my project](https://www.project.com)
 
 ## Table of Contents
--   [Description](#description-of-project)
--
--
+- Description of project
+- Visuals
 
 ## Description of project 
-Description of project
+Worked through HTML text and CSS to follow assignment exactly. Changed all basic HTML code to semantics. Edited CSS to condense and simplify. Added notes throughout displaying work completed. 
 
 ## Visuals
 ![Horisen Screenshot](./image/horisen%201.png)
