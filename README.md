@@ -1,7 +1,16 @@
 # seo-refactor
 
-## Description 
+[Link to my project](https://www.project.com)
 
-### Link to Application
+## Table of Contents
+-   [Description](#description-of-project)
+-
+-
 
-#### Screenshot of Application
+## Description of project 
+Description of project
+
+## Visuals
+![Horisen Screenshot](./image/horisen%201.png)
+![Horisen Screenshot - lower](./image/horisen%202.png)
+
